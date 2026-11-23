@@ -1,0 +1,21 @@
+# Kişisel ders notları (sadece bilgisayarda kalır)
+NOTLAR.md
+
+# Sanal ortam (herkes requirements.txt ile kendisi kurar)
+venv/
+
+# Python ve pytest'in otomatik ürettiği dosyalar
+__pycache__/
+.pytest_cache/
+
+# Pipeline çalışınca yeniden oluşan dosyalar
+*.log
+data/sales.db
+data/processed/
+
+# Editör ve sistem dosyaları
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini

@@ -1,0 +1,28 @@
+order_id,order_date,customer_name,city,product,category,unit_price,quantity,payment_method
+1001,2026-01-03,Ayşe Yılmaz,İstanbul,Kablosuz Kulaklık,Elektronik,450.50,2,Kredi Kartı
+1002,2026-01-03,Mehmet Kaya,Ankara,Mekanik Klavye,Elektronik,1200.00,1,Havale
+1003,2026-01-04,Zeynep Demir,izmir,Yoga Matı,Spor,250.00,3,Kredi Kartı
+1004,2026-01-04,Ali Çelik,İstanbul,Kahve Makinesi,Ev & Yaşam,3200.00,1,Kapıda Ödeme
+1005,2026-01-05,Elif Şahin,Bursa,Koşu Ayakkabısı,Spor,1850.00,1,Kredi Kartı
+1005,2026-01-05,Elif Şahin,Bursa,Koşu Ayakkabısı,Spor,1850.00,1,Kredi Kartı
+1006,06.01.2026,Can Arslan,Antalya,Bluetooth Hoparlör,Elektronik,780.00,2,Kredi Kartı
+1007,2026-01-06,Selin Koç,,Termos,Ev & Yaşam,320.00,4,Havale
+1008,2026-01-07,Burak Öztürk,ANKARA,Oyuncu Mouse,Elektronik,650.00,1,Kredi Kartı
+1009,2026-01-07,Deniz Aydın,İstanbul,Dambıl Seti,Spor,,1,Kapıda Ödeme
+1010,2026-01-08,Ece Yıldız,Izmir,Masa Lambası,Ev & Yaşam,410.00,2,Kredi Kartı
+1011,09.01.2026,Emre Polat,İstanbul ,Akıllı Saat,Elektronik,2750.00,1,Kredi Kartı
+1012,2026-01-09,Gizem Kurt,Bursa,Spor Çantası,Spor,540.00,-1,Havale
+1013,2026-01-10,Hakan Erdem,Antalya,Tencere Seti,Ev & Yaşam,1450.00,1,Kapıda Ödeme
+1014,2026-01-10,İrem Aksoy,ankara,Webcam,Elektronik,890.00,1,Kredi Kartı
+1015,2026-01-11,Kerem Tekin,İstanbul,Yoga Matı,Spor,250.00,2,Kredi Kartı
+1016,2026-01-11,,İzmir,Kablosuz Kulaklık,Elektronik,450.50,1,Havale
+1017,12.01.2026,Merve Doğan,İstanbul,Kahve Makinesi,Ev & Yaşam,3200.00,1,Kredi Kartı
+1018,2026-01-12,Onur Şimşek,Bursa,Mekanik Klavye,Elektronik,1200.00,2,Kredi Kartı
+1019,2026-01-13,Pınar Güneş,Antalya,Koşu Ayakkabısı,Spor,1850.00,1,Kapıda Ödeme
+1020,2026-01-13,Serkan Yalçın,Ankara,Masa Lambası,Ev & Yaşam,410.00,3,Kredi Kartı
+1021,2026-01-14,Tuğba Acar,İstanbul,Akıllı Saat,Elektronik,2750.00,1,Havale
+1022,2026-01-14,Umut Kılıç,izmir,Termos,Ev & Yaşam,320.00,2,Kredi Kartı
+1023,2026-01-15,Yasemin Bulut,Bursa,Dambıl Seti,Spor,980.00,1,Kredi Kartı
+1024,2026-01-15,Volkan Özkan,İstanbul,Oyuncu Mouse,Elektronik,650.00,2,Kapıda Ödeme
+1024,2026-01-15,Volkan Özkan,İstanbul,Oyuncu Mouse,Elektronik,650.00,2,Kapıda Ödeme
+1025,2026-01-16,Aslı Karaca,Antalya,Bluetooth Hoparlör,Elektronik,780.00,1,Kredi Kartı
